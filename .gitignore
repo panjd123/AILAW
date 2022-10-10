@@ -1,3 +1,5 @@
 test.*
 __*
 *.csv
+*.xlsx
+bribe_data
